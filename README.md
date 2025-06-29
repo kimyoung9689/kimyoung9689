@@ -1,11 +1,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" /></p>
 
-<p align="center">
-  <a href="https://solved.ac/rladud9689">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rladud9689" alt="Solved.ac 프로필" />
-  </a>
-</p>
-
 <h3 align="left">Areas of Interest in AI & Development:</h3>
 <p align="left">
   I am currently interested in and learning the following technologies:
@@ -71,3 +65,9 @@
 - I regularly write articles on [https://velog.io/@rladud9689/posts](https://velog.io/@rladud9689/posts)
 
 - How to reach me **rladud9689@naver.com**
+
+<p align="center">
+  <a href="https://solved.ac/rladud9689">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rladud9689" alt="Solved.ac 프로필" />
+  </a>
+</p>
