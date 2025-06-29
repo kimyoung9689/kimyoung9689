@@ -1,4 +1,7 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F&text_color=FFFFFF" alt="kimyoung9689" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" /></p>
+
+
 
 <h3 align="left">Areas of Interest in AI & Development:</h3>
 <p align="left">
