@@ -65,13 +65,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" />
 </p>
 
-<br> <p align="left">
+<p align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimyoung9689&show_icons=true&locale=en&layout=compact" alt="kimyoung9689" />
 </p>
 
----
-
-- I’m currently learning **AI Lab Bootcamp 14th Cohort**
+<br><br><br> - I’m currently learning **AI Lab Bootcamp 14th Cohort**
 
 - I regularly write articles on [https://velog.io/@rladud9689/posts](https://velog.io/@rladud9689/posts)
 
