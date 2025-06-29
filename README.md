@@ -1,5 +1,4 @@
-There was an error committing your changes: kimyoung9689 has committed since you started editing. See what changed
-
+[![김영's GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인_깃허브_아이디&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center">An aspiring AI Developer from South Korea.</h3>
 
