@@ -63,14 +63,12 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimyoung9689&" alt="kimyoung9689" /> &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimyoung9689&show_icons=true&locale=en&layout=compact" alt="kimyoung9689" />
 </p>
 
--
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimyoung9689&show_icons=true&locale=en&layout=compact" alt="kimyoung9689" />
+</p>
 
---
-
-
+---
 
 - I’m currently learning **AI Lab Bootcamp 14th Cohort**
 
