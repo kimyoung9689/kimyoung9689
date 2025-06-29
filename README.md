@@ -56,16 +56,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimyoung9689&" alt="kimyoung9689" /></p>
 
-
-
-<p align="center">
-  <a href="https://solved.ac/rladud9689">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rladud9689" alt="Solved.ac 프로필" />
-  </a>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" /></p>
-
 ---
 
 - I’m currently learning **AI Lab Bootcamp 14th Cohort**
