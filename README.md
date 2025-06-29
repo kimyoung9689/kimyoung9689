@@ -1,6 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F" alt="kimyoung9689" /></p>
-
-<h3 align="center">A skilled and aspiring AI Developer from South Korea.</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F&text_color=FFFFFF" alt="kimyoung9689" /></p>
 
 <h3 align="left">Areas of Interest in AI & Development:</h3>
 <p align="left">
@@ -58,12 +56,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kimyoung9689&show_icons=true&locale=en&layout=compact" alt="kimyoung9689" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimyoung9689&" alt="kimyoung9689" /></p>
-
----
-
-- 🌱 I’m currently learning **AI Lab Bootcamp 14th Cohort**
-
-- 📝 I regularly write articles on [https://velog.io/@rladud9689/posts](https://velog.io/@rladud9689/posts)
-
-- 📫 How to reach me **rladud9689@naver.com**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com
