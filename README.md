@@ -1,5 +1,4 @@
-[![김영's GitHub Stats](https://github-readme-stats.vercel.app/api?username=본인_깃허브_아이디&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F)](https://github.com/anuraghazra/github-readme-stats)
-
+[![김영's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en&theme=dark&ring_color=D4A373&bg_color=18171F)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="center">An aspiring AI Developer from South Korea.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimyoung9689" alt="kimyoung9689" /></a> </p>
