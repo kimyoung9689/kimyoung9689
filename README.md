@@ -1,7 +1,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" /></p>
 
 <p align="center">
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+  <a href="https://solved.ac/kimyoung9689">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyoung9689" alt="Solved.ac 프로필" />
+  </a>
 </p>
 
 <h3 align="left">Areas of Interest in AI & Development:</h3>
