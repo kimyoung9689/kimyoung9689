@@ -2,17 +2,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimyoung9689" alt="kimyoung9689" /></a> </p>
 
-- 🌱 I’m currently learning **AI Lab Bootcamp 14th Cohort**
-
-- 📝 I regularly write articles on [https://velog.io/@rladud9689/posts](https://velog.io/@rladud9689/posts)
-
-- 📫 How to reach me **rladud9689@naver.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Areas of Interest in AI & Development:</h3>
 <p align="left">
-  </p>
-
-<h3 align="left">My AI & Development Skills:</h3>
+  I am currently interested in and learning the following technologies:
+</p>
 
 <h4>Programming Languages</h4>
 <p align="left">
@@ -69,3 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimyoung9689&show_icons=true&locale=en" alt="kimyoung9689" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimyoung9689&" alt="kimyoung9689" /></p>
+
+---
+
+-  I’m currently learning AI Lab Bootcamp 14th Cohort
+- 📝 I regularly write articles on [https://velog.io/@rladud9689/posts](https://velog.io/@rladud9689/posts)
+- 📫 How to reach me **rladud9689@naver.com**
